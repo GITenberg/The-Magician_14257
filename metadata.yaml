@@ -22,6 +22,8 @@ description: "The Magician is a novel by British author W. Somerset Maugham, ori
   \ he met Aleister Crowley. The novel was later republished with a foreword by Maugham\
   \ entitled A Fragment of Autobiography.\nThe novel inspired a film of the same name\
   \ directed in 1926 by Rex Ingram.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14257#The-Magician
 gutenberg_issued: '2004-12-04'
 gutenberg_type: Text
 identifiers:
