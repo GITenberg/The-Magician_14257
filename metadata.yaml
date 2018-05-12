@@ -1,0 +1,43 @@
+_repo: The-Magician_14257
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Maugham, W. Somerset (William Somerset)
+    aliases:
+    - Maugham, Somerset
+    - Maugham, William Somerset
+    birthdate: 1874
+    deathdate: 1965
+    gutenberg_agent_id: '126'
+    url: http://www.gutenberg.org/2009/agents/126
+    wikipedia: http://en.wikipedia.org/wiki/W._Somerset_Maugham
+description: "The Magician is a novel by British author W. Somerset Maugham, originally\
+  \ published in 1908. In this tale, the magician Oliver Haddo, a caricature of Aleister\
+  \ Crowley, attempts to create life. Crowley wrote a critique of this book under\
+  \ the pen name Oliver Haddo, in which he accused Maugham of plagiarism.\nMaugham\
+  \ wrote The Magician in London, after he had spent some time living in Paris, where\
+  \ he met Aleister Crowley. The novel was later republished with a foreword by Maugham\
+  \ entitled A Fragment of Autobiography.\nThe novel inspired a film of the same name\
+  \ directed in 1926 by Rex Ingram.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-12-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14257'
+  wikidata: Q972714
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paris (France) -- Fiction'
+- !lcsh 'Magic -- Fiction'
+- !lcc 'PR'
+title: The Magician
+url: http://www.gutenberg.org/ebooks/14257
+wikipedia:
+- https://de.wikipedia.org/wiki/Der_Magier_(Maughams_Roman)
+- https://en.wikipedia.org/wiki/The_Magician_(Maugham_novel)
+- https://it.wikipedia.org/wiki/Il_mago_(Maugham)
